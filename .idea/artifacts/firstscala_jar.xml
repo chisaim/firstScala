@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="firstscala:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/firstscala_jar</output-path>
+    <root id="archive" name="firstscala.jar">
+      <element id="module-output" name="firstscala" />
+    </root>
+  </artifact>
+</component>
